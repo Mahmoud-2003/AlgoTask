@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\bin\Debug\net8.0\ALgoTask2.exe
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\bin\Debug\net8.0\ALgoTask2.deps.json
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\bin\Debug\net8.0\ALgoTask2.runtimeconfig.json
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\bin\Debug\net8.0\ALgoTask2.dll
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\bin\Debug\net8.0\ALgoTask2.pdb
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\ALgoTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\ALgoTask2.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\ALgoTask2.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\ALgoTask2.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\ALgoTask2.dll
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\refint\ALgoTask2.dll
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\ALgoTask2.pdb
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\ALgoTask2.genruntimeconfig.cache
+C:\Users\Mahmoud\source\repos\ALgoTask2\ALgoTask2\obj\Debug\net8.0\ref\ALgoTask2.dll
